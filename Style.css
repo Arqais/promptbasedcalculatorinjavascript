@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+body {
+	margin: 0;
+ background-image: linear-gradient(to bottom, #00ffff, #0effff, #17ffff, #1dffff, #23ffff);	
+}
+
+#heading {
+	text-align: center;
+	color: blue;
+	font-family: 'Acme', sans-serif;
+}
+
+
+#logo img{
+	margin: auto;
+}
+
+.container button {
+	margin: auto;
+	text-align: center;
+	display: flex;
+
+}
+
+.container h3 {
+	border: black 2px dotted;
+	text-align: center;
+	border-radius: 70%;
+}
+
+#buttonadd {
+	border: none;
+	background-color: #2541b2;
+	color: white;
+	outline: none;
+	padding: 8px;
+	font-family: monospace;
+	border-radius: 6px;
+}
+
+
+#buttonsub {
+	border: none;
+	background-color: #2541b2;
+	color: white;
+	outline: none;
+	padding: 8px;
+	font-family: monospace;
+	border-radius: 6px;
+}
+
+#buttonmul {
+	border: none;
+	background-color: #2541b2;
+	color: white;
+	outline: none;
+	padding: 8px;
+	font-family: monospace;
+	border-radius: 6px;
+}
+
+#buttondiv {
+	border: none;
+	background-color: #2541b2;
+	color: white;
+	outline: none;
+	padding: 8px;
+	font-family: monospace;
+	border-radius: 6px;
+}
+
+#buttonrem {
+	border: none;
+	background-color: #2541b2;
+	color: white;
+	outline: none;
+	padding: 8px;
+	font-family: monospace;
+	border-radius: 6px;
+}
